@@ -78,9 +78,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djangoTutorial',
-        'USER': 'gostly',
+        'USER': 'dbadmin',
         'PASSWORD': 'SQLpassword00',
-        'HOST': '192.168.5.35'
+        'HOST': 'localhost'
     }
 }
 
