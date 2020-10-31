@@ -1,9 +1,14 @@
 body {
-  background:bisque
-}
-font {
-  color: darkslategrey
+  color: darkslategrey;
+  background:bisque;
 }
 li a {
-  color:darkgreen
+  color:darkgreen;
+}
+li a:visited {
+  color: darkgreen;
+}
+li a:hover {
+  color: lightgreen;
+  text-decoration: none;
 }
