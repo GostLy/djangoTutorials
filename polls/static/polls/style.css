@@ -2,6 +2,16 @@ body {
   color: darkslategrey;
   background:bisque;
 }
+a {
+  color:darkgreen;
+}
+a:visited {
+  color: darkgreen;
+}
+a:hover {
+  color: orangered;
+  text-decoration: none;
+}
 li a {
   color:darkgreen;
 }
@@ -9,6 +19,6 @@ li a:visited {
   color: darkgreen;
 }
 li a:hover {
-  color: lightgreen;
+  color: orangered;
   text-decoration: none;
 }
