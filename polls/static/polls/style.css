@@ -1,3 +1,9 @@
+body {
+  background:bisque
+}
+font {
+  color: darkslategrey
+}
 li a {
-  color: teal
+  color:darkgreen
 }
